@@ -1,4 +1,4 @@
-# This program detects if someone has diagbeted using machine learning and python!
+# This program detects if someone has diabetes using machine learning and python!
 
 import pandas as pd
 from sklearn.metrics import accuracy_score
